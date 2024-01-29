@@ -515,7 +515,7 @@ img{
 }
 
 .skills__ApiREST{
-    width: 40%;
+    width: 60%;
 }
 
 .skills__Microservices{
@@ -527,15 +527,15 @@ img{
 }
 
 .skills__CYpress{
-    width: 60%;
+    width: 70%;
 }
 
 .skills__javascript{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__Selenium{
-    width: 60%;
+    width: 70%;
 }
 
 .skills__GitLab{
@@ -544,6 +544,10 @@ img{
 
 .skills__Bitbucket{
     width: 70%;
+}
+
+.skills__AzureDevops{
+    width: 40%;
 }
 
 .skills__close .skills__list{
